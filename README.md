@@ -1,3 +1,5 @@
+# Problem Statement
+https://github.com/Fareeth6272/Marketing-Analytics-Dashboard/blob/main/Episode%201%20-%20Marketing%20Analytics%20Business%20Case%20(Clean).pptx
 # Marketing-Analytics-Dashboard
  # 1 ![Overiew Dashboard](https://github.com/user-attachments/assets/9c055d77-942f-40e2-8580-d10b5e1f1395)
 # 2 ![Conversion details ](https://github.com/user-attachments/assets/e05be614-0f66-4026-b14e-625b1608bb0e)
