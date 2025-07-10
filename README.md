@@ -6,6 +6,8 @@ https://github.com/Fareeth6272/Marketing-Analytics-Dashboard/blob/main/Episode%2
 # 3 ![Social media details dashboard](https://github.com/user-attachments/assets/945f4d97-d467-4898-b4e8-5840cb748236)
  # 4 ![customer review details](https://github.com/user-attachments/assets/d0019105-062f-46f8-9e26-c86b72e8f0be)
 
+# Final Recommendation
+https://github.com/Fareeth6272/Marketing-Analytics-Dashboard/blob/main/Final%20Presentation.pptx
 
 
 
